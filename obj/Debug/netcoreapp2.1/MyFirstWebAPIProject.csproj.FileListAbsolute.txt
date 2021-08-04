@@ -1,0 +1,14 @@
+E:\Data\Asp.net tuts\MyFirstWebAPIProject\bin\Debug\netcoreapp2.1\MyFirstWebAPIProject.deps.json
+E:\Data\Asp.net tuts\MyFirstWebAPIProject\bin\Debug\netcoreapp2.1\MyFirstWebAPIProject.runtimeconfig.json
+E:\Data\Asp.net tuts\MyFirstWebAPIProject\bin\Debug\netcoreapp2.1\MyFirstWebAPIProject.runtimeconfig.dev.json
+E:\Data\Asp.net tuts\MyFirstWebAPIProject\bin\Debug\netcoreapp2.1\MyFirstWebAPIProject.dll
+E:\Data\Asp.net tuts\MyFirstWebAPIProject\bin\Debug\netcoreapp2.1\MyFirstWebAPIProject.pdb
+E:\Data\Asp.net tuts\MyFirstWebAPIProject\obj\Debug\netcoreapp2.1\MyFirstWebAPIProject.csprojAssemblyReference.cache
+E:\Data\Asp.net tuts\MyFirstWebAPIProject\obj\Debug\netcoreapp2.1\MyFirstWebAPIProject.csproj.CoreCompileInputs.cache
+E:\Data\Asp.net tuts\MyFirstWebAPIProject\obj\Debug\netcoreapp2.1\MyFirstWebAPIProject.RazorAssemblyInfo.cache
+E:\Data\Asp.net tuts\MyFirstWebAPIProject\obj\Debug\netcoreapp2.1\MyFirstWebAPIProject.RazorAssemblyInfo.cs
+E:\Data\Asp.net tuts\MyFirstWebAPIProject\obj\Debug\netcoreapp2.1\MyFirstWebAPIProject.AssemblyInfoInputs.cache
+E:\Data\Asp.net tuts\MyFirstWebAPIProject\obj\Debug\netcoreapp2.1\MyFirstWebAPIProject.AssemblyInfo.cs
+E:\Data\Asp.net tuts\MyFirstWebAPIProject\obj\Debug\netcoreapp2.1\MyFirstWebAPIProject.RazorTargetAssemblyInfo.cache
+E:\Data\Asp.net tuts\MyFirstWebAPIProject\obj\Debug\netcoreapp2.1\MyFirstWebAPIProject.dll
+E:\Data\Asp.net tuts\MyFirstWebAPIProject\obj\Debug\netcoreapp2.1\MyFirstWebAPIProject.pdb
